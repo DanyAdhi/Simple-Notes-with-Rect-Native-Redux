@@ -35,3 +35,9 @@ See this application demo <a href="https://drive.google.com/file/d/17F2KsH-9yyBl
     <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/work.png' width=200 />
   </span>
 </p>
+
+<br />
+<br />
+
+## Contact
+danyadhi4149@gmail.com
